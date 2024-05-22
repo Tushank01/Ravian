@@ -1,0 +1,10 @@
+/* Navbar.css */
+.blinking-light {
+    animation: blink 1s infinite alternate; /* 1s duration, infinite loop, alternate direction */
+  }
+  
+  @keyframes blink {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
