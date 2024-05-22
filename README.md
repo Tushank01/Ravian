@@ -1,6 +1,6 @@
-# Refokus Clone Website Project ✨
+# RAVIAN AI ✨
 
-This repository contains the source code for a React-based clone website of Refokus. The project aims to replicate the layout, design, and functionalities of the original Refokus website while incorporating additional features and enhancements for an improved user experience.
+This repository contains the source code for a React-based  website . The project aims to  the layout, design, and functionalities  while incorporating additional features and enhancements for an improved user experience.
 
 ## Features
 
