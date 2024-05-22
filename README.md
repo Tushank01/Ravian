@@ -22,10 +22,6 @@ This repository contains the source code for a React-based  website . The projec
 -   **Optimized Performance:** Improved overall performance compared to the original website, resulting in smoother transitions and faster loading times.
 -   **Enhanced Interactivity:** Added interactive features such as hover animations to the cards section, enhancing user engagement.
 
-## Website's Screenshot
-
-![alt text](public/ss.png)
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve the project.
